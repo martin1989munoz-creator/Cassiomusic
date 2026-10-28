@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CasioPlayer" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#242824</item>
+        <item name="android:navigationBarColor">#242824</item>
+    </style>
+</resources>
